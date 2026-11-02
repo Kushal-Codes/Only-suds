@@ -1,0 +1,6 @@
+{
+  "name": "Ovisancarwash — Mobile Car Detailing & Wash",
+  "description": "Professional mobile car detailing, interior and exterior cleaning, one-step paint polishing, and ceramic coating delivered to your door by Ovisancarwash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
